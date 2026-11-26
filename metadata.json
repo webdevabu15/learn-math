@@ -1,0 +1,6 @@
+{
+  "name": "Usmonov Math Lab — First-Principles Matematika",
+  "description": "Birinchi tamoyillar asosida o'zbek tilidagi interaktiv matematika laboratoriyasi: muammo, chegara, virtual intuisiya, formula va Usmonov darajasidagi amaliyot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
